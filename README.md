@@ -1,1 +1,1 @@
-# Quasar-Document-T2
+# Quasar Document T2
